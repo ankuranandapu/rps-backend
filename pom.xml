@@ -16,7 +16,7 @@
 
     <properties>
         <java.version>12</java.version>
-        <springfox-swagger.version>2.9.2</springfox-swagger.version>
+        <springfox-swagger.version>2.10.0</springfox-swagger.version>
         <junit-jupiter.version>5.5.2</junit-jupiter.version>
         <mockito.version>3.0.0</mockito.version>
     </properties>
